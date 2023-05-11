@@ -1,0 +1,12 @@
+
+body{
+    background-color:#d56565;
+    font-family: system-ui;
+}
+.center {
+    text-align: center;
+    padding: 250px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    margin-top: 20px;  
+}
